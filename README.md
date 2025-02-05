@@ -83,6 +83,7 @@ Exporting the final cleaned data into csv file named 'Final.csv' for future use 
    Inference -
    
    1.'PAPER CRAFT , LITTLE BIRDIE' & 'MEDIUM CERAMIC TOP STORAGE JAR' are the products ordered in large quantities.
+   
 3. Country Based
    
    3.1 Countries giving maximum orders
@@ -107,7 +108,69 @@ Exporting the final cleaned data into csv file named 'Final.csv' for future use 
    
    1.Uk has maximum number of customers - 90%
    
-   2.5 Contries contribute to 96% of unique customers namely -
+   2.Top 5 Countries contribute to 96% of unique customers namely -
    
        A.UK B.Germany C.France D.Spain E.Belgium
    
+   3.4 Country wise Trending Product based on frequency
+   
+   3.5 Countrywise Highest Revenue generating products
+   
+   3.6 Most ordered Products in UK
+   
+   Inference -
+   
+   1.Product ordered in Highest quantity in UK is - 'MEDIUM CERAMIC TOP STORAGE JAR' contributes to 5% of total quantity.
+   
+   3.7 Highest Revenue Generating Products in UK
+
+   Inference -
+   
+   1.Highest Revenue Generating Product of UK is MEDIUM CERAMIC TOP STORAGE JAR which contributes to 3.2 %
+
+4. Time Based
+   
+   Calculated Daily, Monthly, Week-Day wise revenue.
+   
+   4.1 Highest grossing month
+
+   Inference -
+
+   1.Month of November marks the highest revenue generation
+
+   2.Month of April & February marks the lowest revenue generation
+
+## G.Customer Segmentaion Based on Purchasing Behaviour
+
+Segmenting customers based on their **purchasing behavior** involves analyzing their transaction historyto identify distinct groups.
+
+RFM Segmentation (Recency, Frequency, Monetary), which evaluates customer behavior based on three metrics:
+
+1.**Recency**: How recently a customer made a purchase.
+
+2.**Frequency**: How often a customer makes a purchase.
+
+3.**Monetary** : How much a customer spends.
+
+**Apply RFM Scoring**
+
+R_Score - Asigning Highest R_score(5) to customers who purchased very recently (Low Recency).
+
+F_Score- Assigning Highest F_score(5) to customers who purchased very frequently (High Frequency- more unique Invoice Count).
+
+M_Score- Assigning Highest M_score(5) to customers who purchased of large order value.
+
+**Segmentation Catagories** - 
+'Loyal', 'At Risk', 'Regular', 'Irregular', 'Recent Visitors', 'Frequent Buyers', 'Big Spenders', 'Others'
+
+## H. Inferences
+
+1.There are 4% of customers 'At Risk' who neither visits frquently nor gives significant Order Value.
+
+2.20%$ customers are 'Irregular' who does not buys frequently which are less than 'Regular' customers (16%).
+
+3.Only 7% customers are 'Loyal' who are frequent as well as give big order values.
+
+**Analysing High Spending Customers**
+
+Big Spenders and Irregular have high order value than Big Spenders and Regular.
