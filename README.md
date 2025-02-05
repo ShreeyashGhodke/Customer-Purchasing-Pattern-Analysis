@@ -174,3 +174,25 @@ M_Score- Assigning Highest M_score(5) to customers who purchased of large order 
 **Analysing High Spending Customers**
 
 Big Spenders and Irregular have high order value than Big Spenders and Regular.
+
+## I. Model Building
+
+As this is customer segmentation problem, we will proceed with classification algorithm.
+
+We will build 'Random Forest' and 'SVC' models as both can capture the complex relationship between data and generalise well.
+
+**'Random Forest'** and **'SVC'** both can deal with problem of overfitting efficiently.
+
+Insights -
+
+Both models are achieving over 90% accuracy for customer behavior prediction
+
+## J. Future Possibilities of the Project
+
+**'Customer Loyalty'** - We can identify and 'AWARD' customers based on - 'Regular' and 'Loyal' customers who contribute consistently to revenue.
+
+**'Customer Retention'** - Identifying customers based on their irregularity i.e high Recency & low R_score and focusing on them.
+
+**'Revenue Analysis'** - Analysing the spending behaviours of different segments.
+
+**'Targeted Marketing'** - Different campaigns for different customer segments i.e Rewards for Loyal and Win-back campaigns for Irregular customers.
