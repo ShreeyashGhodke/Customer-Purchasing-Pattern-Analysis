@@ -165,9 +165,9 @@ M_Score- Assigning Highest M_score(5) to customers who purchased of large order 
 
 ## H. Inferences
 
-1.There are 4% of customers 'At Risk' who neither visits frquently nor gives significant Order Value.
+1.There are 4% of customers 'At Risk' who neither visits frequently nor gives significant Order Value.
 
-2.20%$ customers are 'Irregular' who does not buys frequently which are less than 'Regular' customers (16%).
+2. 20%$ customers are 'Irregular' who does not buys frequently which are less than 'Regular' customers (16%).
 
 3.Only 7% customers are 'Loyal' who are frequent as well as give big order values.
 
