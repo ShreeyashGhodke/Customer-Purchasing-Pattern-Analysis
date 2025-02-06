@@ -140,7 +140,7 @@ Exporting the final cleaned data into csv file named 'Final.csv' for future use 
 
    2.Month of April & February marks the lowest revenue generation
 
-## G.Customer Segmentaion Based on Purchasing Behaviour
+## G.Customer Segmentation Based on Purchasing Behaviour
 
 Segmenting customers based on their **purchasing behavior** involves analyzing their transaction historyto identify distinct groups.
 
